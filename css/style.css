@@ -1,3 +1,4 @@
+
 .pleca {
   background-image: url(../img/blue-pattern.png);
   height: 60px; }
@@ -16,5 +17,66 @@
 
 .subtitulos {
   margin-top: 3%; }
+
+#infinity {
+  height: 10px; }
+
+.msjHeader {
+  background-color: #00008B;
+  text-align: center;
+  color: #FFFFFF;
+  width: 100%;
+  height: 300px;
+  padding-top: 6%; }
+
+.msjDownload {
+  background-color: #DA70D6;
+  color: #FFFFFF;
+  text-align: center;
+  width: 100%;
+  height: 50px;
+  padding-top: 1%; }
+
+.verde {
+  background-image: url(../img/ws-main.png);
+  text-align: center;
+  color: white;
+  height: 300px;
+  padding-top: 4%; }
+
+.naranja {
+  background-image: url(../img/server-main.png);
+  text-align: center;
+  color: white;
+  height: 300px;
+  padding-top: 4%; }
+
+.morado {
+  background-image: url(../img/atomic-main.png);
+  text-align: center;
+  color: white;
+  height: 300px;
+  padding-top: 4%; }
+
+.imgGrayII {
+  width: 20%;
+  display: block;
+  margin: auto; }
+
+hr {
+  height: 10px;
+  width: 50%;
+  background-color: blue; }
+
+#gray {
+  background-image: url(../img/grey-pattern.png);
+  height: 200px;
+  padding-top: 2%; }
+
+#grayII {
+  background-image: url(../img/grey-pattern.png);
+  height: 400px;
+  text-align: center; }
+
 
 /*# sourceMappingURL=style.css.map */
