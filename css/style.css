@@ -15,6 +15,27 @@
   margin-top: 5%; }
 
 .subtitulos {
-  margin-top: 3%; }
+  margin-top: 3%;
+  color: grey; }
+
+.azules {
+  color: #00BFFF; }
+
+.img-circulo {
+  padding: 2% 2%;
+  margin-top: 1%;
+  margin-bottom: 1%; }
+
+.banderilla-face, .img-libro, .logo-fedora {
+  margin-top: 3%;
+  margin-bottom: 3%; }
+
+.pie-partelogo {
+  margin-top: 2%;
+  height: 130px; }
+
+.img-logoabajo {
+  whith: 20px;
+  height: 80px; }
 
 /*# sourceMappingURL=style.css.map */
